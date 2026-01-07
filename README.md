@@ -168,19 +168,6 @@ Performance analytics platform
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
 ## 🏆 Achievements & Recognition
 
 <div align="center">
@@ -222,7 +209,7 @@ Performance analytics platform
 [![Email BU](https://img.shields.io/badge/BU_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomi02@bu.edu)
 [![Email Personal](https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomikarajshekar4@gmail.com)
 
-**📍 Boston, MA **
+📍 Boston, MA 
 
 </div>
 
