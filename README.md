@@ -211,16 +211,6 @@ Performance analytics platform
 
 📍 Boston, MA 
 
-</div>
 
----
-
-<div align="center">
-
-### 💡 "Building intelligent systems that bridge technology and real-world impact"
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
-⭐️ From [Bhoomika Rajashekar](https://github.com/YOUR_USERNAME)
 
 </div>
