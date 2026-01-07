@@ -194,7 +194,7 @@ Performance analytics platform
 | 🥈 **2nd Place** | RV College Inter-College Ideathon |
 | ❤️ **NGO Lead** | Mysuru CT U & I Trust (May-July 2024) |
 | 🎭 **Miss Attitude 2023** | Geethayana Cultural Event |
-| 🎓 **First Class Distinction** | BE in CSE (AI&ML) - 7.88 CGPA |
+| 🎓 **First Class Distinction** | BE in CSE (AI&ML) |
 
 </div>
 
@@ -208,7 +208,7 @@ Performance analytics platform
 📚 **Reading:** Constant novel reader  
 🌍 **Languages:** Learning Spanish & German  
 🎭 **Culture:** Event performer & cultural enthusiast  
-❤️ **Service:** Active NGO volunteer & community leader
+❤️ **Service:**  NGO volunteer & community leader
 
 </div>
 
@@ -221,10 +221,8 @@ Performance analytics platform
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-rajshekar/)
 [![Email BU](https://img.shields.io/badge/BU_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomi02@bu.edu)
 [![Email Personal](https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomikarajshekar4@gmail.com)
-[![Phone US](https://img.shields.io/badge/US_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+18579199906)
-[![Phone India](https://img.shields.io/badge/India_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917892384876)
 
-**📍 Boston, MA | Mysuru, Karnataka, India**
+**📍 Boston, MA **
 
 </div>
 
