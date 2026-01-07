@@ -95,9 +95,7 @@ Enterprise-grade conversational AI for customer support
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-rajshekar/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhoomi02@bu.edu)
-[![Phone](https://img.shields.io/badge/-Phone-00C300?style=flat&logo=whatsapp&logoColor=white)](tel:+18579199906)
 
----
 
 💡 *"Building intelligent systems that bridge technology and real-world impact"*
 
